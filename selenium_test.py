@@ -20,6 +20,16 @@ class TestTipCalculator(unittest.TestCase):
         # Initialize the Chrome WebDriver
         cls.driver = webdriver.Chrome()
         # cls.driver.maximize_window()
+        # Set Chrome options
+        options = Options()
+        options.add_argument('--headless')  # Run Chrome in headless mode
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+
+        # Specify the path to ChromeDriver if needed
+        service = Service('/usr/local/bin/chromedriver')
+        driver = webdriver.Chrome(service=service, options=options)
+
 
     @classmethod
     def tearDownClass(cls):
