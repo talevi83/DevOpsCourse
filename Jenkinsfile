@@ -6,6 +6,15 @@ pipeline {
     }
 
     stages {
+        stage('Install Python3') {
+            steps {
+                sh '''
+                    apt-get update
+                    apt-get install -y python3 python3-venv python3-pip
+                '''
+            }
+        }
+
         stage('Set up Python Environment') {
             steps {
                 script {
@@ -20,7 +29,7 @@ pipeline {
 
         stage('Run Selenium Tests') {
             steps {
-                sh "${VENV_DIR}/bin/python selenium_test.py"
+                sh "${VENV_DIR}/bin/python your_selenium_script.py"
             }
         }
     }
