@@ -2,18 +2,10 @@ pipeline {
     agent any
 
     environment {
-        VENV_DIR = '/home/jenkins/DevOps1909/.venv'
+        VENV_DIR = '.venv'
     }
 
     stages {
-        stage('Clone Repository') {
-            steps {
-                dir('/home/jenkins/DevOps1909') {
-                    git branch: 'main', url: 'https://github.com/talevi83/DevOpsCourse.git', credentialsId: 'github-token'
-                }
-            }
-        }
-
         stage('Set up Python Environment') {
             steps {
                 script {
@@ -22,13 +14,13 @@ pipeline {
                     }
                 }
                 sh "${VENV_DIR}/bin/pip install --upgrade pip"
-                sh "${VENV_DIR}/bin/pip install -r /home/jenkins/DevOps1909/requirements.txt"
+                sh "${VENV_DIR}/bin/pip install -r requirements.txt"
             }
         }
 
         stage('Run Selenium Tests') {
             steps {
-                sh "${VENV_DIR}/bin/python /home/jenkins/DevOps1909/selenium_test.py"
+                sh "${VENV_DIR}/bin/python selenium_test.py"
             }
         }
     }
