@@ -1,0 +1,5 @@
+awscli
+requests
+flask
+matplotlib
+selenium
