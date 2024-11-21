@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3aa6498-ba38-48e4-a80e-cb61a45319da" name="Changes" comment="commit gitignore" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;talevi83&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://talevi83: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@github.com/talevi83/DevOpsCourse.git&quot;,
+    &quot;accountId&quot;: &quot;51479309-4dc0-4f59-98f1-6bfd84d021f1&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/101.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/132.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/142.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/151.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/217.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/219_flask.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/223_restApi.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/selenium_test.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mIS4gkrAxwbBShRn0FCZGPAeHe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in 217.py.executor": "Run",
+    "Python tests.Python tests in selenium_test.py.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.100.executor": "Run",
+    "Python.101.executor": "Run",
+    "Python.114.executor": "Run",
+    "Python.132.executor": "Run",
+    "Python.142.executor": "Run",
+    "Python.151.executor": "Run",
+    "Python.169.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.19.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.200.executor": "Debug",
+    "Python.217.executor": "Run",
+    "Python.219.executor": "Run",
+    "Python.219_flask.executor": "Run",
+    "Python.223.executor": "Run",
+    "Python.223_restApi.executor": "Run",
+    "Python.23.executor": "Debug",
+    "Python.28.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.37.executor": "Debug",
+    "Python.43.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3aa6498-ba38-48e4-a80e-cb61a45319da" name="Changes" comment="" />
+      <created>1726762407625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726762407625</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1731507394162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731507394162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1731507581742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731507581742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1731508720905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731508720905</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modify Jenkinsfile with installing Python3 on the Jenkins container">
+      <option name="closed" value="true" />
+      <created>1731508929595</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731508929595</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modify Jenkinsfile with installing Python3 on the Jenkins container">
+      <option name="closed" value="true" />
+      <created>1731509521785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731509521785</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Modify Jenkinsfile with installing Python3 on the Jenkins container">
+      <option name="closed" value="true" />
+      <created>1731516099147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731516099147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Remove selenium_test.sh">
+      <option name="closed" value="true" />
+      <created>1732205354525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732205354525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit gitignore">
+      <option name="closed" value="true" />
+      <created>1732205853057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732205853057</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add jenkinsfile" />
+    <MESSAGE value="Modify Jenkinsfile with installing Python3 on the Jenkins container" />
+    <MESSAGE value="Remove selenium_test.sh" />
+    <MESSAGE value="commit gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit gitignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/200.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
